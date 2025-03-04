@@ -9,6 +9,8 @@ Now that we've seen how we can build text-generation apps, let's look into chat 
 Chat applications have become integrated into our daily lives, offering more than just a means of casual conversation. They're integral parts of customer service, technical support, and even sophisticated advisory systems. It's likely that you've gotten some help from a chat application not too long ago. As we integrate more advanced technologies like generative AI into these platforms, the complexity increases and so does the challenges.
 
 Some questions we need to be answered are:
+Test new
+Line 2
 
 - **Building the app**. How do we efficiently build and seamlessly integrate these AI-powered applications for specific use cases?
 - **Monitoring**. Once deployed, how can we monitor and ensure that the applications are operating at the highest level of quality, both in terms of functionality and adhering to the [six principles of responsible AI](https://www.microsoft.com/ai/responsible-ai?WT.mc_id=academic-105485-koreyst)?
